@@ -1,4 +1,4 @@
-#My Little Garden
+# My Little Garden
 
 This game is part of a learning project.
 
